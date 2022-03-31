@@ -1,0 +1,46 @@
+anyio @ file:///home/jpg/.cache/pypoetry/artifacts/63/43/c9/e8e5ed05999967e19649070833666dadc43f0a48ba8df7c8c54bc0fc0b/anyio-3.5.0-py3-none-any.whl
+asgiref @ file:///home/jpg/.cache/pypoetry/artifacts/12/c6/58/b461520efbe0ac0a67261f2d665156c3efabcc6392f021f3db62abbd51/asgiref-3.5.0-py3-none-any.whl
+asttokens==2.0.5
+attrs @ file:///home/jpg/.cache/pypoetry/artifacts/9a/27/ab/6895b786f345452394b42c1fdbe863803d0396e675b632c01cb13cad92/attrs-21.4.0-py2.py3-none-any.whl
+backcall==0.2.0
+black @ file:///home/jpg/.cache/pypoetry/artifacts/52/ea/15/d7807f88d081fe87c9278b62b39dd5a8d544aa9457ece8e27923a62980/black-22.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+certifi @ file:///home/jpg/.cache/pypoetry/artifacts/77/74/3e/daf57610ff13227e3b3f50a78487055f6ac94cc9363abd2463be34c5e9/certifi-2021.10.8-py2.py3-none-any.whl
+charset-normalizer @ file:///home/jpg/.cache/pypoetry/artifacts/ae/14/8e/087a104edb7ec627884755272de815d8ee4fd53b8745fdb12a087dd2e1/charset_normalizer-2.0.12-py3-none-any.whl
+click @ file:///home/jpg/.cache/pypoetry/artifacts/c6/82/f0/62dcfb613a20c658d8ce67196870eb9a799d4423ef83a15e5f531fd632/click-8.1.1-py3-none-any.whl
+decorator==5.1.1
+executing==0.8.3
+fastapi @ file:///home/jpg/.cache/pypoetry/artifacts/33/b0/81/6e2493c25f45ac58ba645ed37ccf08311ff6f7fa16c78f1e876224f2cc/fastapi-0.75.0-py3-none-any.whl
+h11 @ file:///home/jpg/.cache/pypoetry/artifacts/bc/d7/e2/6d144112b0c47a5ee4e22c53b271dc73b63c1e64e15aca149164758406/h11-0.13.0-py3-none-any.whl
+idna @ file:///home/jpg/.cache/pypoetry/artifacts/f7/09/c9/8e80952436ff87855ddff4891a35ecf913b2b5dc97911f02a070ff2b1f/idna-3.3-py3-none-any.whl
+iniconfig @ file:///home/jpg/.cache/pypoetry/artifacts/ac/f9/da/e990ffcd9ec361a68676a5916e391286e1ea5d1b8907ae887e141a71f5/iniconfig-1.1.1-py2.py3-none-any.whl
+ipython==8.2.0
+isort @ file:///home/jpg/.cache/pypoetry/artifacts/08/6b/bf/a994a4feb3ad0863ccc2edf385a86c88314f00f00732f08093af5fa3dc/isort-5.10.1-py3-none-any.whl
+jedi==0.18.1
+matplotlib-inline==0.1.3
+mypy-extensions @ file:///home/jpg/.cache/pypoetry/artifacts/b6/a0/b0/a5dc9acd6fd12aba308634f21bb7cf0571448f20848797d7ecb327aa12/mypy_extensions-0.4.3-py2.py3-none-any.whl
+packaging @ file:///home/jpg/.cache/pypoetry/artifacts/7f/d5/4c/1d3c4776012fc0bbe1f86e69bde2c5e36d2d32caa2e4845ac1fc08ab3f/packaging-21.3-py3-none-any.whl
+parso==0.8.3
+pathspec @ file:///home/jpg/.cache/pypoetry/artifacts/04/91/14/294ed2ee6c852b0d466bdd15d393127eff4168b35ae81cedf5a03fe348/pathspec-0.9.0-py2.py3-none-any.whl
+pexpect==4.8.0
+pickleshare==0.7.5
+platformdirs @ file:///home/jpg/.cache/pypoetry/artifacts/69/d8/85/534d33a027326b761252b65d12289eed45f2fed6912d6ffd47affe6284/platformdirs-2.5.1-py3-none-any.whl
+pluggy @ file:///home/jpg/.cache/pypoetry/artifacts/38/05/d7/70e2b0d553c780097b692ed658b0f553a28f16028d848a98174b1a2249/pluggy-1.0.0-py2.py3-none-any.whl
+prompt-toolkit==3.0.28
+ptyprocess==0.7.0
+pure-eval==0.2.2
+py @ file:///home/jpg/.cache/pypoetry/artifacts/ab/b4/c3/a3971fd0d6ab5a2e40a43ad7b809005422d7cf333f7be6ccdfe9002e1b/py-1.11.0-py2.py3-none-any.whl
+pydantic @ file:///home/jpg/.cache/pypoetry/artifacts/98/35/5c/34da00fdd0cfe3b76503325a96ea4d2313ceb365e3e522d00d9b39cf7d/pydantic-1.9.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+Pygments==2.11.2
+pyparsing @ file:///home/jpg/.cache/pypoetry/artifacts/8a/67/7c/c21f632fb8255d9fc3882ed4548b0270011ef2a160a6031635274760a2/pyparsing-3.0.7-py3-none-any.whl
+pytest @ file:///home/jpg/.cache/pypoetry/artifacts/1c/4d/ee/203e33e67624672b4775df627230210e015630536a13a13794b0fc1b7d/pytest-7.1.1-py3-none-any.whl
+requests @ file:///home/jpg/.cache/pypoetry/artifacts/dc/17/bf/8d9779110a13421f6181028974b24800ec70f28bf9b311411e1868b8c7/requests-2.27.1-py2.py3-none-any.whl
+six==1.16.0
+sniffio @ file:///home/jpg/.cache/pypoetry/artifacts/d0/91/b7/e6203dd46faa656f9ddf9a16cfbc3e51a56fa709d69642affedb2e0eff/sniffio-1.2.0-py3-none-any.whl
+stack-data==0.2.0
+starlette @ file:///home/jpg/.cache/pypoetry/artifacts/87/0f/66/b3afc6fcd3ad50262f82f503cd78e1eab19237ab417cf4c564a6d33e25/starlette-0.17.1-py3-none-any.whl
+tomli @ file:///home/jpg/.cache/pypoetry/artifacts/36/bd/11/98fa2af866c73d00f2498ade62c7fcf28db8656714b7b7a44e9cb2f855/tomli-2.0.1-py3-none-any.whl
+traitlets==5.1.1
+typing_extensions @ file:///home/jpg/.cache/pypoetry/artifacts/d8/15/d9/af7ec814ed6e1c696c44ca3bfff21d29263f6bcf7f23801bddca78b3c7/typing_extensions-4.1.1-py3-none-any.whl
+urllib3 @ file:///home/jpg/.cache/pypoetry/artifacts/82/6d/7d/27c3eb08fd57859a15aa9472bf2acde15878f936b4283bae9b2ad55599/urllib3-1.26.9-py2.py3-none-any.whl
+uvicorn @ file:///home/jpg/.cache/pypoetry/artifacts/a2/ff/79/8a3b922b9503477cb5389145687486c86ba435d1a54d9d62db03ccdd96/uvicorn-0.17.6-py3-none-any.whl
+wcwidth==0.2.5
